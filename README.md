@@ -1,7 +1,7 @@
 # VidJot 
 NODE Js app 
 
-Demo Link [here](https://www.google.com)
+Demo Link [here](https://fierce-chamber-21589.herokuapp.com)
 
 ## How to use
 You will need MongoDB on your system and mongod (mongo daemon) running.
